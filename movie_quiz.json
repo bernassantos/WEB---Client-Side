@@ -2,303 +2,444 @@
     "List": [
          {
              "difficulty": "medium",
-             "Question": "Qual foi o primeiro filme de prestígio de Martin Scorsese?",
+             "question": "Qual foi o primeiro filme de prestígio de Martin Scorsese?",
+             "image":"",
              "correct_answer": "Taxi Driver",
              "incorrect_answer":[
-                 "O Lobo de Wall Street",
-                 "O Aviador",
+                 "The Wolf of Wall Street",
+                 "The Aviator",
                  "Rain"
              ]
          },
          {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual o nome deste filme?",
+            "image": "https://github.com/bernassantos/WEB---Client-Side/blob/5467d9e74154960ce4a36e008d0a4bef3914715a/img6150d9dd6fa5f3.43173286.jpg",
+            "correct_answer": "The Godfather",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Goodfellas",
+                "Bugsy",
+                "Road to Perdition"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual o nome deste filme?",
+            "image":"https://github.com/bernassantos/WEB---Client-Side/blob/439bb8e737c347cb3c4ad15eafc09e41cb01c7ca/img6150dab0992f44.68135559.jpg",
+            "correct_answer": "Suicide Squad",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Man of Steel",
+                "Justice League",
+                "Avengers"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Filme com Anthony Hopkins e Jodie Foster?",
+            "image":"",
+            "correct_answer": "Silence of the Lambs",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Noé",
+                "The Father",
+                "Elysium"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual é a maior obra do diretor Quentin Tarantino até agora?",
+            "image":"",
+            "correct_answer": "Pulp Fiction",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Django",
+                "Kill Bill",
+                "Inglorious Bastards"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "Em qual destes filmes Jennifer Lawrence venceu o oscar de melhor atriz?",
+            "image":"",
+            "correct_answer": "Silver Linings",
+            "incorrect_answer":[
+                "Hunger Games",
+                "X-Men",
+                "Joy"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual destes atores venceu mais oscars?",
+            "image":"",
+            "correct_answer": "Robert de Niro",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Al Pacino",
+                "Jamie Foxx",
+                "Jack Nicholson"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual destes grandes atores não é americano?",
+            "image":"",
+            "correct_answer": "Daniel Day-Lewis",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Tom Cruise",
+                "Ben Affleck",
+                "Leonardo DiCaprio"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "Qual destes filmes não é de autoria do diretor Stanley Kubrick?",
+            "image":"",
+            "correct_answer": "Annie Hall",
+            "incorrect_answer":[
+                "Laranja Mecânica",
+                "2001: A Space Odyssey",
+                "Lolita"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "Qual destas animações não foi indicada ao oscar de melhor roteiro?",
+            "image":"",
+            "correct_answer": "O Rei Leão",
+            "incorrect_answer":[
+                "Ratatouille",
+                "Os Incríveis",
+                "Rango"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "Em que filme Meryl Streep ganhou o seu primeiro Oscar?",
+            "image":"",
+            "correct_answer": "Kramer vs. Kramer",
+            "incorrect_answer":[
+                "Sofie's Choice",
+                "The Post",
+                "The Devil Wears Prada"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "Quais foram as duas atrizes que dividiram o Oscar no mesmo ano?",
+            "image":"",
+            "correct_answer": "Barbra Streisand e Katharine Hepburn",
+            "incorrect_answer":[
+                "Katharine Hepburn e Maggie Smith",
+                "Bette Davis e Elizabeth Taylor",
+                "Barbra Streisand e Katharine Hepburn"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "Qual ator foi indicado oito vezes aos oscares e nunca ganhou?",
+            "image":"",
+            "correct_answer": "Peter O'Toole",
+            "incorrect_answer":[
+                "Laurence Olivier",
+                "Burt Lancaster",
+                "Jack Lemmon"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual o nome deste ator?",
+            "image":"https://github.com/bernassantos/WEB---Client-Side/blob/4254a3eeb0987d7aa8064604e6af59dcf14e5090/transferir.jpg",
+            "correct_answer": "Tom Cruise",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Jude Law",
+                "Robert Downey Jr",
+                "Robert Pattinson"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "Que ator não interpretou o Joker?",
+            "image":"",
+            "correct_answer": "Michael Shannon",
+            "incorrect_answer":[
+                "Mark Hamill",
+                "Heath Ledger",
+                "Jack Nicholson"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Quem interpreta Hermione Granger na Saga Harry Potter?",
+            "image":"",
+            "correct_answer": "Emma Watson",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Kate Winslet",
+                "Naomi Watts",
+                "Charlize Teron"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Em qual filme Leonardo DiCaprio venceu o seu primeiro Óscar?",
+            "image":"",
+            "correct_answer": "The Revenant",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Titanic",
+                "The Wolf of Wall Street",
+                "Inception"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual país produz mais filmes por ano?",
+            "image":"",
+            "correct_answer": "Índia",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Estados Unidos",
+                "México",
+                "Brasil"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual o nome da atriz que faz a Viúva Negra nos filmes da Marvel?",
+            "image":"",
+            "correct_answer": "Scarlett Johansson",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Elizabeth Olsen",
+                "Chloe Bennet",
+                "Krysten Ritter"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "A quem pertenciam os direitos do filme O Homem Aranha antes da Marvel?",
+            "image":"",
+            "correct_answer": "Sony",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "DC Universe",
+                "Fox",
+                "WarnerMedia"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Quem é o ator principal do filme Deadpool?",
+            "image":"",
+            "correct_answer": "Ryan Reynolds",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Ryan Gosling",
+                "Ryan Adams",
+                "Ryan O'Neal"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "Em que ano foi lançado, pela Pixar Animation Studios, Monstros S.A.?",
+            "image":"",
+            "correct_answer": "2001",
+            "incorrect_answer":[
+                "2000",
+                "2002",
+                "1999"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual o nome desta série?",
+            "image":"https://github.com/bernassantos/WEB---Client-Side/blob/2c11b828c2847b85933a77b9769f2c731d0bbe24/img613177d8625012.74915739.jpg",
+            "correct_answer": "Friends",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "How I Met Your Mother",
+                "Brooklyn Nine-Nine",
+                "Supernatural"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual o nome deste filme?",
+            "image":"https://github.com/bernassantos/WEB---Client-Side/blob/ca177faa58b0c969a61ff9c9de9d2ee3b540f127/img6131795e7c34f6.78643895.jpg",
+            "correct_answer": "Titanic",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Nothing Hill",
+                "Forest Gump",
+                "Mamma Mia!"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual o nome deste filme?",
+            "image":"https://github.com/bernassantos/WEB---Client-Side/blob/f4f63b35ac84bb0f2980d128af78c1b6f9bd0ebf/img61323865d6c168.62799336.jpg",
+            "correct_answer": "Jumanji",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Black Panther",
+                "The Departed",
+                "Black Widow"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual o nome deste filme?",
+            "image":"https://github.com/bernassantos/WEB---Client-Side/blob/8d9fe31ed82bd02c0252772e2721f71473385ab3/matrix_1999.jpg",
+            "correct_answer": "Matrix",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Die Hard",
+                "Fight Club",
+                "Dracula"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "Quantos filmes da saga Star Wars existem?",
+            "image":"",
+            "correct_answer": "12",
+            "incorrect_answer":[
+                "10",
+                "5",
+                "3"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual o nome da personagem interpretada pelo ator Harrison Ford na saga Star Wars?",
+            "image":"",
+            "correct_answer": "Hans Solo",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Chris Solo",
+                "Indiana Jones",
+                "Brams Solo"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "Quem dirigiu o consagrado filme Scarface com Al Pacino e Michelle Pfeiffer?",
+            "image":"",
+            "correct_answer": "Brian De Palma",
+            "incorrect_answer":[
+                "Francis Ford Coppola",
+                "Adam Green",
+                "Fede Alavarez"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual é o verdadeiro nome do Lord Darth Vader na saga Star Wars?",
+            "image":"",
+            "correct_answer": "Anakin Skywalker",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Luke Skywalker",
+                "Seth Skywalker",
+                "Lance Skywalker"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "Quem Robert De Niro interpreta em The Godfather: Part II?",
+            "image":"",
+            "correct_answer": "Vito Corleone",
+            "incorrect_answer":[
+                "Michael Corleone",
+                "Sonny Corleone",
+                "Robert De Niro não entrou no filme"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
+            "question": "Qual é o nome da personagem de Wagner Moura nos filmes Tropa de Elite e Tropa de Elite 2: O Inimigo Agora é Outro?",
+            "image":"",
+            "correct_answer": "Capitão Nascimento",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "Capitão Moura",
+                "Capitão Souza",
+                "Capitão Silva"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "Numa cena do filme Laranja Mecânica, Alex (Malcom Mcdowell) dança e canta uma música clássica de Gene Kelly de qual filme?",
+            "image":"",
+            "correct_answer": "Singin' in the Rain",
+            "incorrect_answer":[
+                "Inherit the Wind",
+                "Hello, Dolly!",
+                "Brigadoon"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "O que acontece com os brinquedos de Andy no final de Toy Story 3?",
+            "image":"",
+            "correct_answer": "Eles são dados à Bonnie",
+            "incorrect_answer":[
+                "Eles são doados",
+                "Eles fogem e ficam perdidos na rua",
+                "Eles permanecem na Sunnyside"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "Batman - O Cavaleiro das Trevas (2008) foi dirigido por?",
+            "image":"",
+            "correct_answer": "Christopher Nolan",
+            "incorrect_answer":[
+                "Tim Burton",
+                "Peter Jackson",
+                "Baz Luhrmann"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "“2001, Uma Odisseia no Espaço” (1968) foi dirigido por?",
+            "image":"",
+            "correct_answer": "Stanley Kubrick",
+            "incorrect_answer":[
+                "Werner Herzog",
+                "James Cameron",
+                "David Cronenberg"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "“Casablanca” (1942) deu o Óscar de melhor direção a quem?",
+            "image":"",
+            "correct_answer": "Michael Curtiz",
+            "incorrect_answer":[
+                "Ernst Lubitsch",
+                "Jean Renoir",
+                "Howard Hawks"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "Qual é o nome do vilão de 007 que participou em mais que um filme da série?",
+            "image":"",
+            "correct_answer": "Blofeld",
+            "incorrect_answer":[
+                "Julious No",
+                "Max Zorin",
+                "Stromberg"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
+            "question": "sfsdsf",
+            "image":"",
             "correct_answer": "sfsdfs",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "aaaa",
+                "aaaa",
+                "aaaa"
             ]
         },
         {
             "difficulty": "easy",
-            "Question": "sfsdsf",
+            "question": "sfsdsf",
+            "image":"",
             "correct_answer": "sfsdfs",
             "incorrect_answer":[
-                "...",
-                "...",
-                "..."
-            ]
-        },
-        {
-            "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
-            "incorrect_answer":[
-                "...",
-                "...",
-                "..."
-            ]
-        },
-        {
-            "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
-            "incorrect_answer":[
-                "...",
-                "...",
-                "..."
-            ]
-        },
-        {
-            "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
-            "incorrect_answer":[
-                "...",
-                "...",
-                "..."
-            ]
-        },
-        {
-            "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
-            "incorrect_answer":[
-                "...",
-                "...",
-                "..."
-            ]
-        },
-        {
-            "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
-            "incorrect_answer":[
-                "...",
-                "...",
-                "..."
-            ]
-        },
-        {
-            "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
-            "incorrect_answer":[
-                "...",
-                "...",
-                "..."
-            ]
-        },
-        {
-            "difficulty": "easy",
-            "Question": "sfsdsf",
-            "correct_answer": "sfsdfs",
-            "incorrect_answer":[
-                "...",
-                "...",
-                "..."
+                "aaaa",
+                "aaaa",
+                "aaaa"
             ]
         }
+        
     ]
 }
