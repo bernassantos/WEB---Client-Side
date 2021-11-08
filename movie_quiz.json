@@ -538,6 +538,17 @@
                 "Terror em Hamityville (1979)",
                 "O exorcista"
             ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "Como se chama a personagem principal do filme Bird Box?",
+            "image":"",
+            "correct_answer": "Malorie",
+            "incorrect_answer":[
+                "Olivia",
+                "Susanne",
+                "Sarah"
+            ]
         }
     ]
 }
