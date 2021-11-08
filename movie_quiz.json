@@ -419,27 +419,125 @@
             ]
         },
         {
-            "difficulty": "easy",
-            "question": "sfsdsf",
+            "difficulty": "medium",
+            "question": "Qual o nome do ator que interpreta Will Turner, no filme Piratas das Caraíbas?",
             "image":"",
-            "correct_answer": "sfsdfs",
+            "correct_answer": "Orlando Bloom",
             "incorrect_answer":[
-                "aaaa",
-                "aaaa",
-                "aaaa"
+                "Brad Pitt",
+                "Jhonny Deep",
+                "Dado Dolabela"
             ]
         },
         {
-            "difficulty": "easy",
-            "question": "sfsdsf",
+            "difficulty": "hard",
+            "question": "Quem é que Josh Hutcherson interpreta no filme Hunger Games?",
             "image":"",
-            "correct_answer": "sfsdfs",
+            "correct_answer": "Peeta Mellark",
             "incorrect_answer":[
-                "aaaa",
-                "aaaa",
-                "aaaa"
+                "Finnick Odair",
+                "Plutarch Havensbee",
+                "Haymitch Abernathy"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "No filme Inception (A origem), qual é o nome da empresa que contratou Cobb e Arthur para roubar ideias de Saito?",
+            "image":"",
+            "correct_answer": "Cobol Engineering",
+            "incorrect_answer":[
+                "Fischer Morrow",
+                "Nolan and Associates",
+                "Syncopy Productions"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "No filme Senhor dos anéis, qual o nome do pai de Legolas?",
+            "image":"",
+            "correct_answer": "Trandwill",
+            "incorrect_answer":[
+                "Elrond",
+                "Gloin",
+                "Denethor"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "Qual é o nome do ator que faz o papel de Booker no filme Os Mercenários 2?",
+            "image":"",
+            "correct_answer": "Chuck Norris",
+            "incorrect_answer":[
+                "Steven Seagal",
+                "Sylvester Stallone",
+                "Jason Statham"
+            ]
+        },
+        {
+            "difficulty": "medium",
+            "question": "Qual foi o primeiro filme de animação a ser indicado aos Óscares de Melhor filme?",
+            "image":"",
+            "correct_answer": "A Bela e o Monstro",
+            "incorrect_answer":[
+                "O Rei Leão",
+                "Toy Story 3",
+                "Shrek"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "Qual o nome deste filme?",
+            "image":"https://github.com/bernassantos/WEB---Client-Side/blob/1715bff0c9ad92b4a12afa4b03016ec659f56f75/grease.jpg",
+            "correct_answer": "Grease",
+            "incorrect_answer":[
+                "Cry Baby",
+                "The Breakfast Club",
+                "Footloose"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "Quem dirigiu o filme O Exorcista?",
+            "image":"",
+            "correct_answer": "William Friedkin",
+            "incorrect_answer":[
+                "Francis Ford Copolla",
+                "Roman Polanski",
+                "Steven Spielberg"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "Qual foi o primeiro filme de Steven Spielberg?",
+            "image":"",
+            "correct_answer": "Duel",
+            "incorrect_answer":[
+                "E.T.",
+                "Gremlins",
+                "Goonies"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "Qual o nome da polícia do filme Tropa de Elite?",
+            "image":"",
+            "correct_answer": "BOPE",
+            "incorrect_answer":[
+                "COPE",
+                "ROTA",
+                "ROTAM"
+            ]
+        },
+        {
+            "difficulty": "hard",
+            "question": "Quais dos filmes abaixo não é baseado em fatos reais?",
+            "image":"",
+            "correct_answer": "Pânico (saga)",
+            "incorrect_answer":[
+                "O exorcismo de Emily Rose",
+                "Terror em Hamityville (1979)",
+                "O exorcista"
             ]
         }
-        
     ]
 }
